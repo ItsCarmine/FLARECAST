@@ -1,9 +1,5 @@
 # FLARECAST: Forecasting Solar Flare Intensity with Transformers
 
-# **FLARECAST: Forecasting Solar Flare Intensity with Transformers**
-
-## **Project Overview**
-
 **Goal:**  
 Develop a transformer-based deep learning model to predict solar flare intensity using time series data of solar activity. The model will leverage attention mechanisms to capture long-range dependencies in solar magnetic field measurements and X-ray flux data. Performance will be compared against traditional methods such as LSTM networks and statistical forecasting techniques.
 
